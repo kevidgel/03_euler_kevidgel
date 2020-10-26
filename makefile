@@ -1,4 +1,4 @@
-all: main.c 
-  gcc -o main main.c
+all: euler.c 
+  gcc -o main euler.c
 run: 
   ./main
